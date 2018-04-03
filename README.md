@@ -1,9 +1,8 @@
 # EasyJack
 
-EasyJack is a python script that generates a HTML file which is run in a web browser to confirm the existence of a clickjacking vulnerability
+EasyJack is a python script that generates a HTML file which is run in a web browser to confirm the existence of clickjacking vulnerability on a specified domain.
 
 And it also adds the URLs to a log file to track the websites that has been passed to the tool.
-
 
 
 # Screenshots
